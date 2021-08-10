@@ -37,7 +37,7 @@ The objective of this tutorial is to look at how we can customise Flutter Widget
 
 I made a Simple Calculator App inspired by the beautiful design I saw on google It will be a single screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/AnkushSinghGandhi/calculator-flutter/blob/main/screen.png)
+<img height="700" src="https://github.com/AnkushSinghGandhi/calculator-flutter/blob/main/screen.png"/>
 
 ## Learnings from this project
 
