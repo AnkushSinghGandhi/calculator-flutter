@@ -26,6 +26,27 @@
   </a>
 </p>
 
+# Calculator 💪
+
+## Goal
+
+The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+
+
+## About App
+
+I made a Simple Calculator App inspired by the beautiful design I saw on google It will be a single screen app with simple functionality but full-on custom styling. 
+
+![Finished App]()
+
+## Learnings from this project
+
+- How to use Flutter themes to create coherent branding. 
+- How to extract and refactor Flutter Widgets with a click of the button. 
+- How to pass functions as parameters and fields.
+- How to use custom colour palettes by using hex codes.
+- How to customise Flutter Widgets to achieve a specific design style.
+
 
 [![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template-project-repo/main/footer.jpg)](https://www.buymeacoffee.com/ankushsingh)
 
